@@ -1,6 +1,6 @@
 ## Welcome to ha4Db Project
 
-What does the project name mean?
+What does the project name "ha4Db" mean?
 
 * Hashi means "bridge" in Japanese.
 * In Japanese "4" as pronounced as "shi".
