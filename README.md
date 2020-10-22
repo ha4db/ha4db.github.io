@@ -1,4 +1,4 @@
-## Welcome to ha4Db
+## Welcome to ha4Db Project
 
 What does the project name mean?
 
