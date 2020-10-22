@@ -1,9 +1,5 @@
 ## Welcome to ha4Db
 
-Next Generation Bridge Management
-
-### Outline
-
 What does the project name mean?
 
 * Hashi means "bridge" in Japanese.
